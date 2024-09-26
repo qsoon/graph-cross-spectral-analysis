@@ -2,6 +2,8 @@
 
 This repo contains the source code for cross-spectral analysis on graphs.
 
+For the detail, please refer to our paper: [https://arxiv.org/abs/2408.05961](https://arxiv.org/abs/2408.05961).
+
 
 ## Description
 
@@ -16,3 +18,6 @@ This repo contains the source code for cross-spectral analysis on graphs.
 
 ## Code overview
 We present a cross-spectral analysis method for bivariate graph signals, applying it to diverse simulation scenarios and real-world dataset.
+
+## References
+Kim, K. and Oh, H.-S. (2024). Cross-Spectral Analysis of Bivariate Graph Signals. arXiv preprint arXiv:2408.05961.
