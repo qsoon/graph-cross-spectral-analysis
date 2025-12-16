@@ -2,7 +2,7 @@
 
 This repo contains the source code for cross-spectral analysis on graphs.
 
-For the detail, please refer to our paper: [https://arxiv.org/abs/2408.05961](https://arxiv.org/abs/2408.05961).
+For the detail, please refer to our paper: [https://doi.org/10.1109/TPAMI.2025.3596918](https://doi.org/10.1109/TPAMI.2025.3596918).
 
 
 ## Description
