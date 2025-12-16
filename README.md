@@ -20,4 +20,4 @@ For the detail, please refer to our paper: [https://doi.org/10.1109/TPAMI.2025.3
 We present a cross-spectral analysis method for bivariate graph signals, applying it to diverse simulation scenarios and real-world dataset.
 
 ## References
-Kim, K. and Oh, H.-S. (2024). Cross-Spectral Analysis of Bivariate Graph Signals. arXiv preprint arXiv:2408.05961.
+Kim, K. and Oh, H.-S. (2025). Cross-Spectral Analysis of Bivariate Graph Signals. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 47(12), 11141-11151.
